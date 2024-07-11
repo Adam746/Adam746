@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adam Weinbaum and I am a 5th year student at Wayne State University studying Computer Science.
+My name is Adam Weinbaum and I am a recent Wayne State University gradute with a degree in Computer Science.
 - 💬 Ask me about my summer internship
 - 📫 How to reach me: amweinbaum@gmail.com
 
