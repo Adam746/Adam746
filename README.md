@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Adam Weinbaum and I am a recent Wayne State University gradute with a degree in Computer Science.
-- 💬 Ask me about my summer internship
+- 💬 Ask me about my summer internship or my Summer job as a coding instructor
 - 📫 How to reach me: amweinbaum@gmail.com
 
 
